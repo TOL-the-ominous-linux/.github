@@ -3,7 +3,7 @@
 > Linux, without the cheerful marketing.
 
 **The Ominous Linux** — **TOL** — is the group behind
-[camareLOL](https://github.com/tamkogay9876-code/camareLOL) and the projects
+[camareLOL](https://github.com/TOL-the-ominous-linux/camareLOL) and the projects
 that grow out of it. It is not a distribution and it has no company behind it.
 It is a name for a way of building Linux tooling: state the risk, show the
 evidence, and never claim a result that was not verified.
@@ -16,8 +16,8 @@ A safety-first TUI installer for Arch Linux, written in Rust. Discovery → plan
 review → confirm → execute → verify, with a safety gate in front of every
 destructive operation. Vietnamese, English and Simplified Chinese.
 
-- Repository: <https://github.com/tamkogay9876-code/camareLOL>
-- Releases: <https://github.com/tamkogay9876-code/camareLOL/releases>
+- Repository: <https://github.com/TOL-the-ominous-linux/camareLOL>
+- Releases: <https://github.com/TOL-the-ominous-linux/camareLOL/releases>
 - npm: `@wenker-ai/camarelo` — the `beta` tag carries 1.x; `latest` is still
   0.1.22.
 - It installs Arch Linux. It is not a distribution and does not ship a kernel.
@@ -30,7 +30,7 @@ enough for a machine. Arch-based, delivered as normal Arch packages
 
 **Status: planned. Nothing is built, packaged or shipped.** The definition,
 patch policy and release checklist are in
-[camareLOL/tol/LOL-KERNEL.md](https://github.com/tamkogay9876-code/camareLOL/blob/main/tol/LOL-KERNEL.md).
+[camareLOL/tol/LOL-KERNEL.md](https://github.com/TOL-the-ominous-linux/camareLOL/blob/main/tol/LOL-KERNEL.md).
 
 ## Principles
 
@@ -70,7 +70,7 @@ not a partnership, and the difference is written down:
 
 Keep that line wherever the mark is published. Before any commercial use —
 hardware, paid support, a paid build — replace the mark. Full rules:
-[camareLOL/tol/BRAND.md](https://github.com/tamkogay9876-code/camareLOL/blob/main/tol/BRAND.md).
+[camareLOL/tol/BRAND.md](https://github.com/TOL-the-ominous-linux/camareLOL/blob/main/tol/BRAND.md).
 
 ## Status
 
