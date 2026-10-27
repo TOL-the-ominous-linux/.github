@@ -28,8 +28,9 @@ The kernel line that camareLOL may install when the stock Arch kernel is not
 enough for a machine. Arch-based, delivered as normal Arch packages
 (`linux-lol`, `linux-lol-headers`), opt-in and reversible.
 
-**Status: planned. Nothing is built, packaged or shipped.** The definition,
-patch policy and release checklist are in
+**Status: planned. Nothing is built, packaged or shipped.** Home repository:
+[TOL-the-ominous-linux/kernel](https://github.com/TOL-the-ominous-linux/kernel)
+— the policy and the patch set live there; the definition is in
 [camareLOL/tol/LOL-KERNEL.md](https://github.com/TOL-the-ominous-linux/camareLOL/blob/main/tol/LOL-KERNEL.md).
 
 ## Principles
