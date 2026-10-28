@@ -22,14 +22,14 @@ destructive operation. Vietnamese, English and Simplified Chinese.
   0.1.22.
 - It installs Arch Linux. It is not a distribution and does not ship a kernel.
 
-### LOL kernel
+### iLOL kernel
 
 The kernel line that camareLOL may install when the stock Arch kernel is not
 enough for a machine. Arch-based, delivered as normal Arch packages
-(`linux-lol`, `linux-lol-headers`), opt-in and reversible.
+(`linux-ilol`, `linux-ilol-headers`), opt-in and reversible.
 
 **Status: planned. Nothing is built, packaged or shipped.** Home repository:
-[TOL-the-ominous-linux/kernel](https://github.com/TOL-the-ominous-linux/kernel)
+[TOL-the-ominous-linux/kernel](https://github.com/TOL-the-ominous-linux/ilol-kernel)
 — the policy and the patch set live there; the definition is in
 [camareLOL/tol/LOL-KERNEL.md](https://github.com/TOL-the-ominous-linux/camareLOL/blob/main/tol/LOL-KERNEL.md).
 
@@ -52,7 +52,7 @@ enough for a machine. Arch-based, delivered as normal Arch packages
 |---|---|
 | `TOL`, `The Ominous Linux` | the group |
 | `camareLOL` | the installer (one `m`, then `are`) |
-| `LOL kernel`, `linux-lol` | the kernel line; package names use `linux-lol` |
+| `iLOL kernel`, `linux-ilol` | the kernel line; package names use `linux-ilol` |
 | `LOL` alone | avoid it outside this context; it reads as "laughing out loud" |
 
 `camareLOL` is the spelling used by the binary, the npm package, tag names and
@@ -80,7 +80,7 @@ hardware, paid support, a paid build — replace the mark. Full rules:
 | Name, documents, brand rules | done, October 2026 |
 | camareLOL 1.0.1 beta | published: GitHub pre-release, npm `beta` |
 | GitHub organisation | pending; this repository moves into it and becomes the `.github` profile |
-| LOL kernel | not started; checklist empty on purpose |
+| iLOL kernel | not started; checklist empty on purpose |
 
 ## Contributing
 

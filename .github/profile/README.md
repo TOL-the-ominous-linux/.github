@@ -8,7 +8,7 @@ claims a result it did not verify.
 | Project | What it is | State |
 |---|---|---|
 | [camareLOL](https://github.com/TOL-the-ominous-linux/camareLOL) | Safety-first TUI installer for Arch Linux | 1.0.1 beta |
-| [LOL kernel](https://github.com/TOL-the-ominous-linux/camareLOL/blob/main/tol/LOL-KERNEL.md) | Arch-based `linux-lol` packages for hardware the stock kernel does not serve well | Planned — nothing shipped |
+| [iLOL kernel](https://github.com/TOL-the-ominous-linux/camareLOL/blob/main/tol/LOL-KERNEL.md) | Arch-based `linux-ilol` packages for hardware the stock kernel does not serve well | Planned — nothing shipped |
 
 ## Start here
 
